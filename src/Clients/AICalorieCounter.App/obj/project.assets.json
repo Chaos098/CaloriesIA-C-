@@ -370,7 +370,7 @@
           "buildTransitive/Microsoft.Maui.Resizetizer.targets": {}
         }
       },
-      "Microsoft.NET.ILLink.Tasks/9.0.6": {
+      "Microsoft.NET.ILLink.Tasks/9.0.13": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -2637,7 +2637,7 @@
           "buildTransitive/Microsoft.Maui.Resizetizer.targets": {}
         }
       },
-      "Microsoft.NET.ILLink.Tasks/9.0.6": {
+      "Microsoft.NET.ILLink.Tasks/9.0.13": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -4904,7 +4904,7 @@
           "buildTransitive/Microsoft.Maui.Resizetizer.targets": {}
         }
       },
-      "Microsoft.NET.ILLink.Tasks/9.0.6": {
+      "Microsoft.NET.ILLink.Tasks/9.0.13": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -7763,10 +7763,10 @@
         "microsoft.maui.resizetizer.nuspec"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/9.0.6": {
-      "sha512": "TXy3SbJzGXQbxxIxCjdrp8bwEyTDImyYNpTpd6v7P3JL2Y7dno8EYG7dPezfYTa5SoWKdhbH9cbnwHHs3BR5gA==",
+    "Microsoft.NET.ILLink.Tasks/9.0.13": {
+      "sha512": "f7t15I9ZXV7fNk3FIzPAlkJNG1A1tkSeDpRh+TFWEToGGqA+uj6uqU15I8YOkkYICNY2tqOVm2CMe6ScPFPwEg==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/9.0.6",
+      "path": "microsoft.net.illink.tasks/9.0.13",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -7780,7 +7780,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.9.0.6.nupkg.sha512",
+        "microsoft.net.illink.tasks.9.0.13.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -9780,30 +9780,30 @@
   "projectFileDependencyGroups": {
     "net9.0-android35.0": [
       "Microsoft.Maui.Controls >= 9.0.51",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.6"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.13"
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/Users/ducbao/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/CaloriesIA/src/Clients/AICalorieCounter.App/AICalorieCounter.App.csproj",
+      "projectUniqueName": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Clients/AICalorieCounter.App/AICalorieCounter.App.csproj",
       "projectName": "AICalorieCounter.App",
-      "projectPath": "/workspaces/CaloriesIA/src/Clients/AICalorieCounter.App/AICalorieCounter.App.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspaces/CaloriesIA/src/Clients/AICalorieCounter.App/obj/",
+      "projectPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Clients/AICalorieCounter.App/AICalorieCounter.App.csproj",
+      "packagesPath": "/Users/ducbao/.nuget/packages/",
+      "outputPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Clients/AICalorieCounter.App/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/Users/ducbao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0-android"
       ],
       "sources": {
-        "/usr/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9822,7 +9822,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0-android35.0": {
@@ -9835,7 +9835,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[9.0.6, )",
+            "version": "[9.0.13, )",
             "autoReferenced": true
           }
         },
@@ -9850,6 +9850,28 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Android.Ref.35",
+            "version": "[35.0.105, 35.0.105]"
+          },
+          {
+            "name": "Microsoft.Android.Runtime.35.android-arm64",
+            "version": "[35.0.105, 35.0.105]"
+          },
+          {
+            "name": "Microsoft.Android.Runtime.35.android-x64",
+            "version": "[35.0.105, 35.0.105]"
+          },
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.14, 9.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.Android": {
             "privateAssets": "all"
@@ -9858,7 +9880,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

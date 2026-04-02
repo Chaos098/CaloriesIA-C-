@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ifgGhf6OT4g=",
+  "dgSpecHash": "VEhCesj5TfI=",
   "success": true,
-  "projectFilePath": "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
+  "projectFilePath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
   "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/Users/ducbao/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/ducbao/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/ducbao/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/ducbao/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/ducbao/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
   ],
   "logs": []
 }

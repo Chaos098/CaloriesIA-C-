@@ -1,0 +1,82 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: aicalorie
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  user-service:
+    build:
+      context: .
+      dockerfile: src/Services/UserService/UserService.Api/Dockerfile
+    depends_on:
+      - postgres
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=aicalorie;Username=postgres;Password=postgres
+    ports:
+      - "5238:8080"
+
+  nutrition-service:
+    build:
+      context: .
+      dockerfile: src/Services/NutritionService/NutritionService.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - "5164:8080"
+
+  image-analysis-service:
+    build:
+      context: .
+      dockerfile: src/Services/ImageAnalysisService/ImageAnalysisService.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - "5108:8080"
+
+  calorie-computation-service:
+    build:
+      context: .
+      dockerfile: src/Services/CalorieComputationService/CalorieComputationService.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - "5284:8080"
+
+  push-notification-service:
+    build:
+      context: .
+      dockerfile: src/Services/PushNotificationService/PushNotificationService.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    ports:
+      - "5146:8080"
+
+  bff:
+    build:
+      context: .
+      dockerfile: src/Gateways/AICalorieCounter.Bff.Api/Dockerfile
+    depends_on:
+      - user-service
+      - nutrition-service
+      - image-analysis-service
+      - calorie-computation-service
+      - push-notification-service
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ServiceUrls__UserService: http://user-service:8080
+      ServiceUrls__NutritionService: http://nutrition-service:8080
+      ServiceUrls__ImageAnalysisService: http://image-analysis-service:8080
+      ServiceUrls__CalorieComputationService: http://calorie-computation-service:8080
+      ServiceUrls__PushNotificationService: http://push-notification-service:8080
+    ports:
+      - "5035:8080"
+
+volumes:
+  postgres-data:

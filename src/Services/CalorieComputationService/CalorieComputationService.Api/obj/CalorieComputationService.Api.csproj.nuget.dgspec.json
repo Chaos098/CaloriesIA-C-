@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj": {}
+    "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj": {}
   },
   "projects": {
-    "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj": {
+    "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
+        "projectUniqueName": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
         "projectName": "CalorieComputationService.Api",
-        "projectPath": "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspaces/CaloriesIA/src/Services/CalorieComputationService/CalorieComputationService.Api/obj/",
+        "projectPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/CalorieComputationService.Api.csproj",
+        "packagesPath": "/Users/ducbao/.nuget/packages/",
+        "outputPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/CalorieComputationService/CalorieComputationService.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/Users/ducbao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -61,6 +61,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

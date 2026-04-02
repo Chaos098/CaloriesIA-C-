@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj": {}
+    "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj": {}
   },
   "projects": {
-    "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj": {
+    "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+        "projectUniqueName": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
         "projectName": "AICalorieCounter.Bff.Api",
-        "projectPath": "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/obj/",
+        "projectPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+        "packagesPath": "/var/folders/sr/6w3nbnlx05g_zp9nlz8jgjl80000gn/T/cursor-sandbox-cache/5d7b4826b18d2deebb61d7592b804419/nuget",
+        "outputPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/Users/ducbao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -61,6 +61,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

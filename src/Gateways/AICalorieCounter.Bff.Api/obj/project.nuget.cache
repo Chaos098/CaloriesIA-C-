@@ -1,11 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "tEKphOGPm/o=",
-  "success": true,
-  "projectFilePath": "/workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
-  "expectedPackageFiles": [
-    "/root/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "/root/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "TF4EARIupjg=",
+  "success": false,
+  "projectFilePath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\n  Permission denied (127.0.0.1:53565)\n  Permission denied",
+      "projectPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+      "filePath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/AICalorieCounter.Bff.Api.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
