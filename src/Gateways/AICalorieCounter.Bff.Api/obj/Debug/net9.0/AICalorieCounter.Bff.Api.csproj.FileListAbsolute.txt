@@ -31,3 +31,37 @@
 /workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.pdb
 /workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.genruntimeconfig.cache
 /workspaces/CaloriesIA/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/ref/AICalorieCounter.Bff.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/appsettings.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/appsettings.Development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api.staticwebassets.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api.deps.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api.runtimeconfig.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/AICalorieCounter.Bff.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.csproj.AssemblyReference.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.AssemblyInfoInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.AssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.csproj.CoreCompileInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.sourcelink.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/scopedcss/bundle/AICalorieCounter.Bff.Api.styles.css
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/staticwebassets.build.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/staticwebassets.development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/swae.build.ex.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalori.1FEB7F69.Up2Date
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/refint/AICalorieCounter.Bff.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/AICalorieCounter.Bff.Api.genruntimeconfig.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Gateways/AICalorieCounter.Bff.Api/obj/Debug/net9.0/ref/AICalorieCounter.Bff.Api.dll

@@ -31,3 +31,37 @@
 /workspaces/CaloriesIA/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.pdb
 /workspaces/CaloriesIA/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.genruntimeconfig.cache
 /workspaces/CaloriesIA/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/ref/NutritionService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/appsettings.Development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/appsettings.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api.staticwebassets.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api.deps.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api.runtimeconfig.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/NutritionService.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.csproj.AssemblyReference.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.AssemblyInfoInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.AssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.csproj.CoreCompileInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.sourcelink.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/scopedcss/bundle/NutritionService.Api.styles.css
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/staticwebassets.build.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/staticwebassets.development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/swae.build.ex.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/Nutritio.65B412F6.Up2Date
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/refint/NutritionService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/NutritionService.Api.genruntimeconfig.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/NutritionService/NutritionService.Api/obj/Debug/net9.0/ref/NutritionService.Api.dll

@@ -31,3 +31,37 @@
 /workspaces/CaloriesIA/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.pdb
 /workspaces/CaloriesIA/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.genruntimeconfig.cache
 /workspaces/CaloriesIA/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ref/ImageAnalysisService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/appsettings.Development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/appsettings.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api.staticwebassets.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api.deps.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api.runtimeconfig.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/ImageAnalysisService.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.csproj.AssemblyReference.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.AssemblyInfoInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.AssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.csproj.CoreCompileInputs.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.sourcelink.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/scopedcss/bundle/ImageAnalysisService.Api.styles.css
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/staticwebassets.build.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/staticwebassets.development.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/swae.build.ex.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAna.8A8F8754.Up2Date
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/refint/ImageAnalysisService.Api.dll
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.pdb
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ImageAnalysisService.Api.genruntimeconfig.cache
+/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/obj/Debug/net9.0/ref/ImageAnalysisService.Api.dll

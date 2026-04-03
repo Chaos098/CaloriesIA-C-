@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ca0fu4C5Dr0=",
+  "dgSpecHash": "DzqJZI4khEE=",
   "success": true,
   "projectFilePath": "/Volumes/MySSD/StudyFiles/University/Các Công Nghệ Lập Trình Hiện Đại/CaloriesIA-C-/src/Services/ImageAnalysisService/ImageAnalysisService.Api/ImageAnalysisService.Api.csproj",
   "expectedPackageFiles": [
     "/Users/ducbao/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "/Users/ducbao/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
-    "/Users/ducbao/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
-    "/Users/ducbao/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
-    "/Users/ducbao/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+    "/Users/ducbao/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

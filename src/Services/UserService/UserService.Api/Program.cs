@@ -17,7 +17,15 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<UserDbContext>();
-    dbContext.Database.EnsureCreated();
+    var logger = scope.ServiceProvider.GetRequiredService<ILoggerFactory>().CreateLogger("Startup");
+    try
+    {
+        dbContext.Database.EnsureCreated();
+    }
+    catch (Exception ex)
+    {
+        logger.LogWarning(ex, "PostgreSQL is not available. UserService started, but database-backed endpoints may fail until DB is running.");
+    }
 }
 
 // Configure the HTTP request pipeline.
